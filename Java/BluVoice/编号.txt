@@ -1,0 +1,28 @@
+press
+cheerful	character_blu_cheerful_
+idle
+win
+lose
+tutorial
+login
+quit
+
+Item
+
+pressItem		0	1-43
+cheerfulItem	1	1-15
+idleItem		2	1-42
+winItem		3	1-27
+loseItem		4	1-10
+tutorialItem	5	1-2
+loginItem		6	1-25
+quitItem		7	1-6
+
+character_blu_press_
+character_blu_cheerful_
+character_blu_idle_
+character_blu_win_
+character_blu_lose_
+character_blu_tutorial_
+character_blu_login_
+character_blu_quit_
